@@ -1,0 +1,11 @@
+10
+1 5.00 arroz
+2 10.25 feijão
+3 4.75 macarrão 
+4 25.50 carne
+5 3.50 farinha
+6 6.75 ovo
+7 4.00 leite
+8 7.30 azeite
+9 1.00 sal
+10 1.50 açucar
