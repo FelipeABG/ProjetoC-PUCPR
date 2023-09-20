@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 typedef struct
 {
@@ -16,8 +15,6 @@ typedef struct
 
 int main()
 {
-
-    system("clear");
 
     FILE *productsFile = fopen("files/produtos.txt", "r");
     FILE *sellersFile = fopen("files/vendedores.txt", "r");
